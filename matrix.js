@@ -1,3 +1,6 @@
+$(document).ready(function(){
+    alert("hi");}
+
 const canvas = document.getElementById('Matrix');
 const context = canvas.getContext('2d');
 
